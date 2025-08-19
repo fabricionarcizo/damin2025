@@ -1,0 +1,8 @@
+name: damin2025
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12.11
+  - poetry=2.1.4

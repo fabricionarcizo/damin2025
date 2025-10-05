@@ -54,6 +54,10 @@ plotly = "^6.3.0"
 mediapipe = "^0.10.21"
 matplotlib = ">=3.9.0,<=3.10"
 ydata-profiling = "^4.16.1"
+onnx = "^1.19.0"
+keras2onnx = "^1.7.0"
+onnxmltools = "^1.14.0"
+tensorflow = "==2.19.*"
 
 [build-system]
 requires = ["poetry-core"]
